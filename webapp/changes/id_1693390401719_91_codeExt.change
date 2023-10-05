@@ -1,0 +1,34 @@
+{
+	"fileName": "id_1693390401719_91_codeExt",
+	"fileType": "change",
+	"changeType": "codeExt",
+	"moduleName": "customer/app/variant5/changes/coding/newFilters",
+	"reference": "customer.app.variant5",
+	"packageName": "$TMP",
+	"content": {
+		"codeRef": "coding/newFilters.js"
+	},
+	"selector": {
+		"controllerName": "fin.gl.journalentry.verification.controller.Worklist"
+	},
+	"layer": "CUSTOMER_BASE",
+	"texts": {},
+	"namespace": "apps/fin.gl.journalentry.verification/changes/",
+	"projectId": "customer.app.variant5",
+	"creation": "2023-08-30T10:13:21.723Z",
+	"originalLanguage": "EN",
+	"support": {
+		"generator": "Change.createInitialFileContent",
+		"service": "",
+		"user": "",
+		"sapui5Version": "1.96.5",
+		"sourceChangeFileName": "",
+		"compositeCommand": "",
+		"command": ""
+	},
+	"oDataInformation": {},
+	"dependentSelector": {},
+	"jsOnly": false,
+	"variantReference": "",
+	"appDescriptorChange": false
+}

@@ -1,0 +1,37 @@
+{
+	"fileName": "id_1693388764516_76_addXML",
+	"fileType": "change",
+	"changeType": "addXML",
+	"moduleName": "customer/app/variant5/changes/fragments/CreatedAt.fragment.xml",
+	"reference": "customer.app.variant5",
+	"packageName": "$TMP",
+	"content": {
+		"targetAggregation": "controlConfiguration",
+		"index": 17,
+		"fragmentPath": "fragments/CreatedAt.fragment.xml"
+	},
+	"selector": {
+		"id": "worklist--fin.gl.journalentry.verification.worklist.smartFilterBar",
+		"idIsLocal": true
+	},
+	"layer": "CUSTOMER_BASE",
+	"texts": {},
+	"namespace": "apps/fin.gl.journalentry.verification/changes/",
+	"projectId": "customer.app.variant5",
+	"creation": "2023-08-30T09:46:04.575Z",
+	"originalLanguage": "EN",
+	"support": {
+		"generator": "sap.ui.rta.command",
+		"service": "",
+		"user": "",
+		"sapui5Version": "1.96.5",
+		"sourceChangeFileName": "",
+		"compositeCommand": "",
+		"command": "addXML"
+	},
+	"oDataInformation": {},
+	"dependentSelector": {},
+	"jsOnly": false,
+	"variantReference": "",
+	"appDescriptorChange": false
+}

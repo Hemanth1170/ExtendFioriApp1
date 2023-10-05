@@ -1,0 +1,20 @@
+<!-- Use stable and unique IDs!-->
+<core:FragmentDefinition xmlns:core='sap.ui.core' xmlns='sap.ui.comp.smartfilterbar' xmlns:m = 'sap.m'>
+	<!--  add your xml here -->
+	<ControlConfiguration
+		id = "boxFilter4"
+		key = "boxFilter4"
+		index = "20"
+		label = "{i18n>PlndReversalDate}"
+		groupId="_BASIC"
+		visibleInAdvancedArea="true"
+		filterType="multiple">
+			<customControl>
+				<m:ComboBox id = "boxTypes4">
+					<core:Item id = "smallBox4" key = "CC04" text="company code 1"/>
+					<core:Item id = "mediumBox4" key = "CC05" text="company code 2"/> 
+					<core:Item id = "largeBox4" key = "CC06" text="company code 3"/> 
+				</m:ComboBox>
+			</customControl>
+	</ControlConfiguration>
+</core:FragmentDefinition>

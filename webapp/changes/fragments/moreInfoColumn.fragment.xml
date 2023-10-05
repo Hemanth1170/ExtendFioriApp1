@@ -1,0 +1,9 @@
+<core:FragmentDefinition xmlns:core='sap.ui.core' xmlns='sap.m'>
+    <Column id="moreInformationColumn"
+        width="12em"
+        hAlign="Right"
+        styleClass="sapRTSTOrdProdColumnProductTable"
+        vAlign="Middle">
+        <Text id="moreInformationColumnHeaderText" text="{i18n>MORE_INFORMATION_COLUMN}" />
+    </Column>
+</core:FragmentDefinition>

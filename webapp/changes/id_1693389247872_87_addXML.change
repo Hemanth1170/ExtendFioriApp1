@@ -1,0 +1,37 @@
+{
+	"fileName": "id_1693389247872_87_addXML",
+	"fileType": "change",
+	"changeType": "addXML",
+	"moduleName": "customer/app/variant5/changes/fragments/PlndReversalDate.fragment.xml",
+	"reference": "customer.app.variant5",
+	"packageName": "$TMP",
+	"content": {
+		"targetAggregation": "controlConfiguration",
+		"index": 20,
+		"fragmentPath": "fragments/PlndReversalDate.fragment.xml"
+	},
+	"selector": {
+		"id": "worklist--fin.gl.journalentry.verification.worklist.smartFilterBar",
+		"idIsLocal": true
+	},
+	"layer": "CUSTOMER_BASE",
+	"texts": {},
+	"namespace": "apps/fin.gl.journalentry.verification/changes/",
+	"projectId": "customer.app.variant5",
+	"creation": "2023-08-30T09:54:07.937Z",
+	"originalLanguage": "EN",
+	"support": {
+		"generator": "sap.ui.rta.command",
+		"service": "",
+		"user": "",
+		"sapui5Version": "1.96.5",
+		"sourceChangeFileName": "",
+		"compositeCommand": "",
+		"command": "addXML"
+	},
+	"oDataInformation": {},
+	"dependentSelector": {},
+	"jsOnly": false,
+	"variantReference": "",
+	"appDescriptorChange": false
+}

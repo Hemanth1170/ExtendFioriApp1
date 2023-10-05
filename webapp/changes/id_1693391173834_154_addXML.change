@@ -1,0 +1,37 @@
+{
+	"fileName": "id_1693391173834_154_addXML",
+	"fileType": "change",
+	"changeType": "addXML",
+	"moduleName": "customer/app/variant5/changes/fragments/moreInfoColumn.fragment.xml",
+	"reference": "customer.app.variant5",
+	"packageName": "$TMP",
+	"content": {
+		"targetAggregation": "columns",
+		"index": 14,
+		"fragmentPath": "fragments/moreInfoColumn.fragment.xml"
+	},
+	"selector": {
+		"id": "worklist--fin.gl.journalentry.verification.worklist.je.table",
+		"idIsLocal": true
+	},
+	"layer": "CUSTOMER_BASE",
+	"texts": {},
+	"namespace": "apps/fin.gl.journalentry.verification/changes/",
+	"projectId": "customer.app.variant5",
+	"creation": "2023-08-30T10:26:13.907Z",
+	"originalLanguage": "EN",
+	"support": {
+		"generator": "sap.ui.rta.command",
+		"service": "",
+		"user": "",
+		"sapui5Version": "1.96.5",
+		"sourceChangeFileName": "",
+		"compositeCommand": "",
+		"command": "addXML"
+	},
+	"oDataInformation": {},
+	"dependentSelector": {},
+	"jsOnly": false,
+	"variantReference": "",
+	"appDescriptorChange": false
+}
